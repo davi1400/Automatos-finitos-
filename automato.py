@@ -1,4 +1,4 @@
-from Queue import Queue
+from queue import Queue
 from node import node
 class automato():
     def __init__(self, conjunto, alfabeto, q_inicial, conjunto_final):
