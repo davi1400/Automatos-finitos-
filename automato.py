@@ -1,3 +1,7 @@
+"""
+Python 3.6
+"""
+
 from queue import Queue
 from node import node
 class automato():
